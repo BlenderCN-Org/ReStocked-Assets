@@ -1,6 +1,9 @@
 Models/Bakes
 Models/UVs
 
+*.meta
+*.mat
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/

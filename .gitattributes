@@ -1,2 +1,17 @@
 Models/restock-oretank-1.blend filter=lfs diff=lfs merge=lfs -text
 Models/restock-sciencebox-1.blend filter=lfs diff=lfs merge=lfs -text
+Models/Communication/restock-antenna-4.blend filter=lfs diff=lfs merge=lfs -text
+Models/Communication/restock-relays-1.blend filter=lfs diff=lfs merge=lfs -text
+Models/Control/restock-reactionwheel-625-1.blend filter=lfs diff=lfs merge=lfs -text
+Models/Science_old/Instruments.blend filter=lfs diff=lfs merge=lfs -text
+Models/Communication/restock-antenna-stack-2.blend filter=lfs diff=lfs merge=lfs -text
+Models/Resource/restock-oretank-1.blend filter=lfs diff=lfs merge=lfs -text
+Models/Science_old/restock-materialsBay-2.blend filter=lfs diff=lfs merge=lfs -text
+Models/Communication/restock-antenna-radial-2.blend filter=lfs diff=lfs merge=lfs -text
+Models/Science_old/Goo_Cannister.blend filter=lfs diff=lfs merge=lfs -text
+Models/Science_old/restock-materialsBay-1.blend filter=lfs diff=lfs merge=lfs -text
+Models/Communication/foil_sampler.blend filter=lfs diff=lfs merge=lfs -text
+Models/Communication/restock-antenna-1.blend filter=lfs diff=lfs merge=lfs -text
+Models/Communication/restock-antenna-3.blend filter=lfs diff=lfs merge=lfs -text
+Models/Science/restock-sciencebox-1.blend filter=lfs diff=lfs merge=lfs -text
+Models/Science_old/restock-GCMS-1.blend filter=lfs diff=lfs merge=lfs -text
