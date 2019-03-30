@@ -1,5 +1,5 @@
-Models/Bakes
-Models/UVs
+**/AO/*
+**/UV/*
 
 *.meta
 *.mat
