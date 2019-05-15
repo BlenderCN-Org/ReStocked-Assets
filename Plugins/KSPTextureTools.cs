@@ -49,7 +49,6 @@ public class KSPTextureTools : AssetPostprocessor
         {
             if (basename.EndsWith(NORMAL_TAG))
             {
-                Debug.Log(assetPath + " normal map");
                 importer.textureType = TextureImporterType.NormalMap;
                 if (NORMAL_GENERATE) importer.convertToNormalmap = true;
             }
