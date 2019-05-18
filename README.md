@@ -1,5 +1,5 @@
 # ReStocked-Assets
-My own Assets made for [ReStock](https://github.com/PorktoberRevolution/ReStocked). Please report any issues there. Models are made in Blender 2.79 and textures are made with Photoshop CC. All files are licensed CC-BY-SA 4.0. 
+My own Assets made for [ReStock](https://github.com/PorktoberRevolution/ReStocked). Please report any issues there. Models are made in Blender 2.79 and textures are made with Photoshop CC and Affinity Designer. All files are licensed CC-BY-SA 4.0. 
 
 #### Naming Convention:
 textures are named with the filename they will appear as in the final distributed version of the mod, with the exception of some specular maps which are copied into the alpha channel of the diffuse textures. For example:
