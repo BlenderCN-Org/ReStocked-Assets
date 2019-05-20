@@ -7,3 +7,6 @@ textures are named with the filename they will appear as in the final distribute
 * `restock-sciencebox-1-s.psd`: Specular map, copied into alpha channel of Albedo map except when the Specular (Mapped) shader is used
 * `restock-sciencebox-1-n.psd`: Normal map, makes use of Smart Objects for the heightmap embedded within
 * `restock-sciencebox-1-e.psd`: Emissive map
+
+#### Other Work
+* Uses [High voltage warning.svg](https://commons.wikimedia.org/wiki/File:High_voltage_warning.svg) by various wikipedia contributors, licensed under the [Creative Commons Attribution-Share Alike license](https://creativecommons.org/licenses/by-sa/2.5/deed.en). It has been modified when embedding into textures for pixel-accuracy
